@@ -34,12 +34,11 @@ The script will create tokenized .json files that can be fed to the "train.py" s
 
 3. Training
 
-In order to run the training process on a GPU follow the Google Colab Notebook provided as
+In order to run the training process on a GPU follow the Google Colab Notebook provided:
 
-bash_train_GPT2.ipynb
+**bash_train_GPT2.ipynb**
 
 Remember to change the Runtime to GPU !
-
 
 4. Loading and using the model
 
